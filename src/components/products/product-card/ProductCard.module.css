@@ -1,0 +1,26 @@
+.product_card_container {
+  /* position: absolute; */
+  margin: 1rem 2rem;
+  height: auto;
+}
+
+.product_image {
+  width: 160px;
+  height: 120px;
+  background-size: cover;
+  background-position: center;
+}
+
+.product_description {
+  text-align: left;
+  font-size: 0.8rem;
+  font-weight: lighter;
+  padding-top: 0.9rem;
+}
+
+.product_price {
+  text-align: left;
+  font-size: 0.9rem;
+  font-weight: lighter;
+  padding-top: 1rem;
+}

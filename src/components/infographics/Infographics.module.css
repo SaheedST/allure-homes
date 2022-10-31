@@ -1,0 +1,52 @@
+.infographics_section_container{
+    margin: 2rem auto;
+}
+
+.infographics_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0 auto;
+    color: #4f4f4f;
+}
+
+
+.icon {
+    fill: #4f4f4fe3;
+    margin: 0 auto;
+    width: 3rem;
+}
+
+.infographics_title {
+text-align: center;
+font-weight: 600;
+font-size: 1.3rem;
+
+   
+}
+
+.infographics_tip {
+    text-align: center;
+   
+}
+
+.site_literature{
+    margin-top: 2rem;
+    margin-inline: 5rem;
+    display: flex;
+    gap: 3rem;
+}
+
+.segment {
+    background-color: #fafafa;
+}
+
+.segment>p {
+    font-weight: 100;
+    font-size: 0.8rem;
+}
+
+.lighter_segment {
+    color: #4f4f4fed;
+    font-size: 1rem;
+    font-weight: 300;
+}

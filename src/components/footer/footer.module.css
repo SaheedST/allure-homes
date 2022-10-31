@@ -1,0 +1,54 @@
+.footer_container {
+    background-color: #fafafa;
+    margin-top: 5rem;
+    
+}
+
+.footer_heading {
+text-align: center;
+padding-top: 1.5rem;
+padding-bottom: 1.5rem;
+border-bottom: 1px solid #bababa;
+width: 90%;
+margin-inline: auto;
+}
+
+.footer_heading__bold {
+font-weight: 600;
+margin-right: 0.3rem;
+padding-right: 0;
+}
+
+.footer_heading_regular {
+ font-weight: 200;
+}
+
+.footer_links_container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 90%;
+    margin-inline: auto;
+}
+
+.appstore{
+    margin-right: .5rem;
+    padding: 0;
+    width: 6rem;
+    height: 30px
+}
+
+.footer_icon {
+    margin-right: 0.5rem;
+}
+
+.footer_bullet {
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+    background-color: #ff4d5e;
+    display: inline-block;  
+}
+
+.footer_list{
+    color: #696969;
+}

@@ -1,0 +1,11 @@
+input[type='search'] {
+    border-radius: 15px;
+    width: 15rem;
+    border: 1px solid;
+    padding: 0.4rem;
+    color: #4e4e4e;
+}
+
+input[type='search']::placeholder{
+    color: #646464;
+}
